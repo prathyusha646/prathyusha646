@@ -2,6 +2,7 @@
 - 👀 I’m interested in Competitive Programming and Front End Development
 - 🌱 I’m currently pursuing Bachelors in Gudlavalleru Engineering College
 - 📫 You can reach me at damarlaprathyusha30@gmail.com
+- 💻 Personal Portfolio https://prathyu.com/ 
 
 <!---
 prathyusha646/prathyusha646 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
